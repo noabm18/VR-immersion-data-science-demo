@@ -1,0 +1,501 @@
+animal,page_title,animal_class
+Eastern bent-wing bat,Eastern_bent-wing_bat,Mammal
+Western bent-winged bat,Western_bent-winged_bat,Mammal
+Small bent-winged bat,Small_bent-winged_bat,Mammal
+Miniopterus sororculus,Miniopterus_sororculus,Mammal
+Miniopterus newtoni,Miniopterus_newtoni,Mammal
+Manavi long-fingered bat,Manavi_long-fingered_bat,Mammal
+Peterson's long-fingered bat,Peterson's_long-fingered_bat,Mammal
+Miniopterus aelleni,Miniopterus_aelleni,Mammal
+Common bent-wing bat,Common_bent-wing_bat,Mammal
+Andean caenolestid,Andean_caenolestid,Mammal
+Gray-bellied caenolestid,Gray-bellied_caenolestid,Mammal
+Madagascan flying fox,Madagascan_flying_fox,Mammal
+Seychelles fruit bat,Seychelles_fruit_bat,Mammal
+Aru flying fox,Aru_flying_fox,Mammal
+Dusky caenolestid,Dusky_caenolestid,Mammal
+Northern caenolestid,Northern_caenolestid,Mammal
+Long-haired fruit bat,Long-haired_fruit_bat,Mammal
+Franquet's epauletted fruit bat,Franquet's_epauletted_fruit_bat,Mammal
+Fijian monkey-faced bat,Fijian_monkey-faced_bat,Mammal
+Madagascar sucker-footed bat,Madagascar_sucker-footed_bat,Mammal
+Madagascar free-tailed bat,Madagascar_free-tailed_bat,Mammal
+Greater monkey-faced bat,Greater_monkey-faced_bat,Mammal
+African sheath-tailed bat,African_sheath-tailed_bat,Mammal
+Agricola's gracile opossum,Agricola's_gracile_opossum,Mammal
+Southern marsupial mole,Southern_marsupial_mole,Mammal
+Northern marsupial mole,Northern_marsupial_mole,Mammal
+Horsfield's fruit bat,Horsfield's_fruit_bat,Mammal
+Ashy roundleaf bat,Ashy_roundleaf_bat,Mammal
+Dusky leaf-nosed bat,Dusky_leaf-nosed_bat,Mammal
+Trident bat,Trident_bat,Mammal
+Thailand roundleaf bat,Thailand_roundleaf_bat,Mammal
+Lesser great leaf-nosed bat,Lesser_great_leaf-nosed_bat,Mammal
+Hispaniolan greater funnel-eared bat,Hispaniolan_greater_funnel-eared_bat,Mammal
+Western sucker-footed bat,Western_sucker-footed_bat,Mammal
+Mexican greater funnel-eared bat,Mexican_greater_funnel-eared_bat,Mammal
+Jamaican greater funnel-eared bat,Jamaican_greater_funnel-eared_bat,Mammal
+Mormopterus francoismoutoui,Mormopterus_francoismoutoui,Mammal
+Small white-winged flying fox,Small_white-winged_flying_fox,Mammal
+Ashy-headed flying fox,Ashy-headed_flying_fox,Mammal
+Black-eared flying fox,Black-eared_flying_fox,Mammal
+Moluccan flying fox,Moluccan_flying_fox,Mammal
+Bismarck masked flying fox,Bismarck_masked_flying_fox,Mammal
+Makira flying fox,Makira_flying_fox,Mammal
+Pemba flying fox,Pemba_flying_fox,Mammal
+Mauritian flying fox,Mauritian_flying_fox,Mammal
+Noack's roundleaf bat,Noack's_roundleaf_bat,Mammal
+Short-headed roundleaf bat,Short-headed_roundleaf_bat,Mammal
+Sorensen's leaf-nosed bat,Sorensen's_leaf-nosed_bat,Mammal
+Malayan roundleaf bat,Malayan_roundleaf_bat,Mammal
+Lesser short-nosed fruit bat,Lesser_short-nosed_fruit_bat,Mammal
+Western rock sengi,Western_rock_sengi,Mammal
+Somali sengi,Somali_sengi,Mammal
+Swinhoe's roundleaf bat,Swinhoe's_roundleaf_bat,Mammal
+Gilliard's flying fox,Gilliard's_flying_fox,Mammal
+Lesser flying fox,Lesser_flying_fox,Mammal
+Benito roundleaf bat,Benito_roundleaf_bat,Mammal
+Hill's roundleaf bat,Hill's_roundleaf_bat,Mammal
+Fly River roundleaf bat,Fly_River_roundleaf_bat,Mammal
+Makira roundleaf bat,Makira_roundleaf_bat,Mammal
+Borneo roundleaf bat,Borneo_roundleaf_bat,Mammal
+Pomona roundleaf bat,Pomona_roundleaf_bat,Mammal
+Big-eared roundleaf bat,Big-eared_roundleaf_bat,Mammal
+Ridley's leaf-nosed bat,Ridley's_leaf-nosed_bat,Mammal
+Diadem leaf-nosed bat,Diadem_leaf-nosed_bat,Mammal
+Philippine forest roundleaf bat,Philippine_forest_roundleaf_bat,Mammal
+Indonesian short-nosed fruit bat,Indonesian_short-nosed_fruit_bat,Mammal
+Dwarf flying fox,Dwarf_flying_fox,Mammal
+Admiralty flying fox,Admiralty_flying_fox,Mammal
+Ryukyu flying fox,Ryukyu_flying_fox,Mammal
+Sulawesi stripe-faced fruit bat,Sulawesi_stripe-faced_fruit_bat,Mammal
+Ornate flying fox,Ornate_flying_fox,Mammal
+Small flying fox,Small_flying_fox,Mammal
+Big-eared mastiff bat,Big-eared_mastiff_bat,Mammal
+Cuban funnel-eared bat,Cuban_funnel-eared_bat,Mammal
+Mantled mastiff bat,Mantled_mastiff_bat,Mammal
+Trinidadian funnel-eared bat,Trinidadian_funnel-eared_bat,Mammal
+Peale's free-tailed bat,Peale's_free-tailed_bat,Mammal
+Seychelles sheath-tailed bat,Seychelles_sheath-tailed_bat,Mammal
+Large-eared free-tailed bat,Large-eared_free-tailed_bat,Mammal
+Broad-eared bat,Broad-eared_bat,Mammal
+Kalinowski's mastiff bat,Kalinowski's_mastiff_bat,Mammal
+Javan mastiff bat,Javan_mastiff_bat,Mammal
+Incan little mastiff bat,Incan_little_mastiff_bat,Mammal
+Peters's wrinkle-lipped bat,Peters's_wrinkle-lipped_bat,Mammal
+Sumatran mastiff bat,Sumatran_mastiff_bat,Mammal
+Rennell flying fox,Rennell_flying_fox,Mammal
+Bushveld sengi,Bushveld_sengi,Mammal
+Rufous sengi,Rufous_sengi,Mammal
+Chilonatalus macer,Chilonatalus_macer,Mammal
+Little golden-mantled flying fox,Little_golden-mantled_flying_fox,Mammal
+New Zealand lesser short-tailed bat,New_Zealand_lesser_short-tailed_bat,Mammal
+Wood's slit-faced bat,Wood's_slit-faced_bat,Mammal
+Philippine gray flying fox,Philippine_gray_flying_fox,Mammal
+Andersen's flying fox,Andersen's_flying_fox,Mammal
+New Zealand greater short-tailed bat,New_Zealand_greater_short-tailed_bat,Mammal
+Greater short-nosed fruit bat,Greater_short-nosed_fruit_bat,Mammal
+Micronomus,Micronomus,Mammal
+Petra fruit bat,Petra_fruit_bat,Mammal
+Vanikoro flying fox,Vanikoro_flying_fox,Mammal
+Vanuatu flying fox,Vanuatu_flying_fox,Mammal
+Guarocuyus jaraguanus,Guarocuyus_jaraguanus,Reptile
+Anomochilus weberi,Anomochilus_weberi,Reptile
+Anomochilus leonardi,Anomochilus_leonardi,Reptile
+Indian star tortoise,Indian_star_tortoise,Reptile
+Burmese star tortoise,Burmese_star_tortoise,Reptile
+Escambia map turtle,Escambia_map_turtle,Reptile
+Yunnan box turtle,Yunnan_box_turtle,Reptile
+Texas map turtle,Texas_map_turtle,Reptile
+Nubian flapshell turtle,Nubian_flapshell_turtle,Reptile
+Alabama map turtle,Alabama_map_turtle,Reptile
+Olive ridley sea turtle,Olive_ridley_sea_turtle,Reptile
+Florida red-bellied cooter,Florida_red-bellied_cooter,Reptile
+Pearl River map turtle,Pearl_River_map_turtle,Reptile
+Kemp's ridley sea turtle,Kemp's_ridley_sea_turtle,Reptile
+Pan's box turtle,Pan's_box_turtle,Reptile
+McCord's box turtle,McCord's_box_turtle,Reptile
+Yellow-blotched map turtle,Yellow-blotched_map_turtle,Reptile
+Chersobius signatus,Chersobius_signatus,Reptile
+Bolson tortoise,Bolson_tortoise,Reptile
+Senegal flapshell turtle,Senegal_flapshell_turtle,Reptile
+Chinese box turtle,Chinese_box_turtle,Reptile
+Oldham's leaf turtle,Oldham's_leaf_turtle,Reptile
+Black softshell turtle,Black_softshell_turtle,Reptile
+Indian softshell turtle,Indian_softshell_turtle,Reptile
+Yellow-footed tortoise,Yellow-footed_tortoise,Reptile
+Amphisbaena crisae,Amphisbaena_crisae,Reptile
+Amphisbaena cuiabana,Amphisbaena_cuiabana,Reptile
+Amphisbaena frontalis,Amphisbaena_frontalis,Reptile
+Amphisbaena cunhai,Amphisbaena_cunhai,Reptile
+Amphisbaena heterozonata,Amphisbaena_heterozonata,Reptile
+Amphisbaena hiata,Amphisbaena_hiata,Reptile
+Amphisbaena hastata,Amphisbaena_hastata,Reptile
+Amphisbaena ibijara,Amphisbaena_ibijara,Reptile
+Amphisbaena ignatiana,Amphisbaena_ignatiana,Reptile
+Barahona amphisbaena,Barahona_amphisbaena,Reptile
+Cuban worm lizard,Cuban_worm_lizard,Reptile
+Darwin's ringed worm lizard,Darwin's_ringed_worm_lizard,Reptile
+Cope's worm lizard,Cope's_worm_lizard,Reptile
+Gonâve worm lizard,Gonâve_worm_lizard,Reptile
+Heath's worm lizard,Heath's_worm_lizard,Reptile
+Hoge's worm lizard,Hoge's_worm_lizard,Reptile
+King's worm lizard,King's_worm_lizard,Reptile
+Uncertain worm lizard,Uncertain_worm_lizard,Reptile
+Wood turtle,Wood_turtle,Reptile
+Yaqui slider,Yaqui_slider,Reptile
+Maranhão slider,Maranhão_slider,Reptile
+Indian flapshell turtle,Indian_flapshell_turtle,Reptile
+Hispaniolan slider,Hispaniolan_slider,Reptile
+Cuatro Ciénegas slider,Cuatro_Ciénegas_slider,Reptile
+Central Antillean slider,Central_Antillean_slider,Reptile
+Alabama red-bellied cooter,Alabama_red-bellied_cooter,Reptile
+Rio Grande cooter,Rio_Grande_cooter,Reptile
+Spider tortoise,Spider_tortoise,Reptile
+Bell's hinge-back tortoise,Bell's_hinge-back_tortoise,Reptile
+Red-footed tortoise,Red-footed_tortoise,Reptile
+Mexican box turtle,Mexican_box_turtle,Reptile
+Réunion giant tortoise,Réunion_giant_tortoise,Reptile
+Asian narrow-headed softshell turtle,Asian_narrow-headed_softshell_turtle,Reptile
+Leith's softshell turtle,Leith's_softshell_turtle,Reptile
+Amphisbaena caeca,Amphisbaena_caeca,Reptile
+Amphisbaena carli,Amphisbaena_carli,Reptile
+Amphisbaena cegei,Amphisbaena_cegei,Reptile
+Brazilian worm lizard,Brazilian_worm_lizard,Reptile
+Carvalho worm lizard,Carvalho_worm_lizard,Reptile
+Cayemite long-tailed amphisbaena,Cayemite_long-tailed_amphisbaena,Reptile
+Crooked worm lizard,Crooked_worm_lizard,Reptile
+Cayemite short-tailed amphisbaena,Cayemite_short-tailed_amphisbaena,Reptile
+Cuban pink amphisbaena,Cuban_pink_amphisbaena,Reptile
+Leposternon cerradensis,Leposternon_cerradensis,Reptile
+Terrapene ornata,Terrapene_ornata,Reptile
+Hermann's tortoise,Hermann's_tortoise,Reptile
+Spotted box turtle,Spotted_box_turtle,Reptile
+Burmese narrow-headed softshell turtle,Burmese_narrow-headed_softshell_turtle,Reptile
+Greek tortoise,Greek_tortoise,Reptile
+Burmese flapshell turtle,Burmese_flapshell_turtle,Reptile
+Indian narrow-headed softshell turtle,Indian_narrow-headed_softshell_turtle,Reptile
+Marginated tortoise,Marginated_tortoise,Reptile
+Trachemys callirostris,Trachemys_callirostris,Reptile
+Home's hinge-back tortoise,Home's_hinge-back_tortoise,Reptile
+Forest hinge-back tortoise,Forest_hinge-back_tortoise,Reptile
+Natal hinge-back tortoise,Natal_hinge-back_tortoise,Reptile
+Black-knobbed map turtle,Black-knobbed_map_turtle,Reptile
+Vietnamese pond turtle,Vietnamese_pond_turtle,Reptile
+Kleinmann's tortoise,Kleinmann's_tortoise,Reptile
+Flat-backed spider tortoise,Flat-backed_spider_tortoise,Reptile
+Amphisbaena arda,Amphisbaena_arda,Reptile
+Amphisbaena bahiana,Amphisbaena_bahiana,Reptile
+Amphisbaena bedai,Amphisbaena_bedai,Reptile
+Amphisbaena bilabialata,Amphisbaena_bilabialata,Reptile
+Amphisbaena brevis,Amphisbaena_brevis,Reptile
+Amphisbaena borelli,Amphisbaena_borelli,Reptile
+Amphisbaena bolivica,Amphisbaena_bolivica,Reptile
+Barbour's worm lizard,Barbour's_worm_lizard,Reptile
+Baker's worm lizard,Baker's_worm_lizard,Reptile
+Cuban many-ringed amphisbaena,Cuban_many-ringed_amphisbaena,Reptile
+Texas tortoise,Texas_tortoise,Reptile
+Anomochilus monticola,Anomochilus_monticola,Reptile
+Common box turtle,Common_box_turtle,Reptile
+Forsten's tortoise,Forsten's_tortoise,Reptile
+Amboina box turtle,Amboina_box_turtle,Reptile
+Wild turkey,Wild_turkey,Bird
+Ocellated turkey,Ocellated_turkey,Bird
+Green-crowned plovercrest,Green-crowned_plovercrest,Bird
+Banded quail,Banded_quail,Bird
+Southern giant hummingbird,Southern_giant_hummingbird,Bird
+Dwarf tinamou,Dwarf_tinamou,Bird
+Grey-bellied comet,Grey-bellied_comet,Bird
+Helmeted guinea fowl,Helmeted_guinea_fowl,Bird
+Southern brown kiwi,Southern_brown_kiwi,Bird
+Little spotted kiwi,Little_spotted_kiwi,Bird
+Great spotted kiwi,Great_spotted_kiwi,Bird
+North Island brown kiwi,North_Island_brown_kiwi,Bird
+Black guan,Black_guan,Bird
+Talamanca hummingbird,Talamanca_hummingbird,Bird
+Green-backed hillstar,Green-backed_hillstar,Bird
+Purple-crowned plovercrest,Purple-crowned_plovercrest,Bird
+White-throated daggerbill,White-throated_daggerbill,Bird
+Marbled wood quail,Marbled_wood_quail,Bird
+Brazilian ruby,Brazilian_ruby,Bird
+Moluccan megapode,Moluccan_megapode,Bird
+Antillean crested hummingbird,Antillean_crested_hummingbird,Bird
+Blue-chinned sapphire,Blue-chinned_sapphire,Bird
+Spix's guan,Spix's_guan,Bird
+Stripe-faced wood quail,Stripe-faced_wood_quail,Bird
+Dark-backed wood quail,Dark-backed_wood_quail,Bird
+Malleefowl,Malleefowl,Bird
+White-browed guan,White-browed_guan,Bird
+Crested guan,Crested_guan,Bird
+Andean guan,Andean_guan,Bird
+Horned sungem,Horned_sungem,Bird
+Maleo,Maleo,Bird
+Fiery-tailed awlbill,Fiery-tailed_awlbill,Bird
+Slender-tailed woodstar,Slender-tailed_woodstar,Bird
+Blue-headed hummingbird,Blue-headed_hummingbird,Bird
+Black-fronted piping guan,Black-fronted_piping_guan,Bird
+Mountain velvetbreast,Mountain_velvetbreast,Bird
+Black-fronted wood quail,Black-fronted_wood_quail,Bird
+White-crested guan,White-crested_guan,Bird
+Rufous-fronted wood quail,Rufous-fronted_wood_quail,Bird
+Red-faced guan,Red-faced_guan,Bird
+Cauca guan,Cauca_guan,Bird
+Bearded guan,Bearded_guan,Bird
+Dusky-legged guan,Dusky-legged_guan,Bird
+Red-billed brushturkey,Red-billed_brushturkey,Bird
+Sparkling-tailed woodstar,Sparkling-tailed_woodstar,Bird
+Saw-billed hermit,Saw-billed_hermit,Bird
+Swallow-tailed hummingbird,Swallow-tailed_hummingbird,Bird
+Gorgeted wood quail,Gorgeted_wood_quail,Bird
+Peruvian sheartail,Peruvian_sheartail,Bird
+Yungas guan,Yungas_guan,Bird
+Versicolored emerald,Versicolored_emerald,Bird
+White-throated piping guan,White-throated_piping_guan,Bird
+Nahan's partridge,Nahan's_partridge,Bird
+White-chested emerald,White-chested_emerald,Bird
+Black-eared wood quail,Black-eared_wood_quail,Bird
+Tawny-faced quail,Tawny-faced_quail,Bird
+Waigeo brushturkey,Waigeo_brushturkey,Bird
+Stone partridge,Stone_partridge,Bird
+Collared brushturkey,Collared_brushturkey,Bird
+Black-breasted wood quail,Black-breasted_wood_quail,Bird
+Fiery-throated hummingbird,Fiery-throated_hummingbird,Bird
+Wattled brushturkey,Wattled_brushturkey,Bird
+Spotted wood quail,Spotted_wood_quail,Bird
+Starred wood quail,Starred_wood_quail,Bird
+Singing quail,Singing_quail,Bird
+Black-billed brushturkey,Black-billed_brushturkey,Bird
+Marail guan,Marail_guan,Bird
+Venezuelan wood quail,Venezuelan_wood_quail,Bird
+Chestnut wood quail,Chestnut_wood_quail,Bird
+Rufous-breasted wood quail,Rufous-breasted_wood_quail,Bird
+Rusty-margined guan,Rusty-margined_guan,Bird
+Baudo guan,Baudo_guan,Bird
+Tacarcuna wood quail,Tacarcuna_wood_quail,Bird
+Blue-bearded helmetcrest,Blue-bearded_helmetcrest,Bird
+Buffy helmetcrest,Buffy_helmetcrest,Bird
+White-bearded helmetcrest,White-bearded_helmetcrest,Bird
+Tolima blossomcrown,Tolima_blossomcrown,Bird
+Rufous-gaped hillstar,Rufous-gaped_hillstar,Bird
+Many-spotted hummingbird,Many-spotted_hummingbird,Bird
+Rivoli's hummingbird,Rivoli's_hummingbird,Bird
+Scissor-tailed hummingbird,Scissor-tailed_hummingbird,Bird
+Violet-headed hummingbird,Violet-headed_hummingbird,Bird
+Red-throated piping guan,Red-throated_piping_guan,Bird
+Green-bearded helmetcrest,Green-bearded_helmetcrest,Bird
+Ferruginous partridge,Ferruginous_partridge,Bird
+Olivaceous thornbill,Olivaceous_thornbill,Bird
+Green-tailed emerald,Green-tailed_emerald,Bird
+Chiribiquete emerald,Chiribiquete_emerald,Bird
+Common ostrich,Common_ostrich,Bird
+Rufous-vented whitetip,Rufous-vented_whitetip,Bird
+Western capercaillie,Western_capercaillie,Bird
+Red-tailed comet,Red-tailed_comet,Bird
+Black grouse,Black_grouse,Bird
+Oasis hummingbird,Oasis_hummingbird,Bird
+Canivet's emerald,Canivet's_emerald,Bird
+Blue-throated mountaingem,Blue-throated_mountaingem,Bird
+Razor-billed curassow,Razor-billed_curassow,Bird
+Green-backed firecrown,Green-backed_firecrown,Bird
+Emerald-chinned hummingbird,Emerald-chinned_hummingbird,Bird
+Purple-bibbed whitetip,Purple-bibbed_whitetip,Bird
+Betta edithae,Betta_edithae,Fish
+Betta brownorum,Betta_brownorum,Fish
+Betta channoides,Betta_channoides,Fish
+Peaceful betta,Peaceful_betta,Fish
+John Dory,John_Dory,Fish
+Siamese fighting fish,Siamese_fighting_fish,Fish
+Laetacara curviceps,Laetacara_curviceps,Fish
+Australian grayling,Australian_grayling,Fish
+Murray cod,Murray_cod,Fish
+Nannacara aureocephalus,Nannacara_aureocephalus,Fish
+Oscar (fish),Oscar_(fish),Fish
+Crenicichla punctata,Crenicichla_punctata,Fish
+Lugubria johanna,Lugubria_johanna,Fish
+Striped red mullet,Striped_red_mullet,Fish
+Lugubria strigata,Lugubria_strigata,Fish
+Lugubria tigrina,Lugubria_tigrina,Fish
+Zebra acara,Zebra_acara,Fish
+Teleocichla cinderella,Teleocichla_cinderella,Fish
+Pterophyllum altum,Pterophyllum_altum,Fish
+Convict cichlid,Convict_cichlid,Fish
+Australoheros facetus,Australoheros_facetus,Fish
+Blue acara,Blue_acara,Fish
+Blue-eye cichlid,Blue-eye_cichlid,Fish
+Mesonauta festivus,Mesonauta_festivus,Fish
+Mullus barbatus,Mullus_barbatus,Fish
+Goldeneye cichlid,Goldeneye_cichlid,Fish
+Green terror,Green_terror,Fish
+Firemouth cichlid,Firemouth_cichlid,Fish
+Nannacara bimaculata,Nannacara_bimaculata,Fish
+Jack Dempsey (fish),Jack_Dempsey_(fish),Fish
+Parachromis managuensis,Parachromis_managuensis,Fish
+Rednose labeo,Rednose_labeo,Fish
+Silver labeo,Silver_labeo,Fish
+Psednos gelatinosus,Psednos_gelatinosus,Fish
+Psednos anoderkes,Psednos_anoderkes,Fish
+Psednos harteli,Psednos_harteli,Fish
+Psednos micrurus,Psednos_micrurus,Fish
+Psednos nataliae,Psednos_nataliae,Fish
+Lingcod,Lingcod,Fish
+Petenia splendida,Petenia_splendida,Fish
+Paraliparis labiatus,Paraliparis_labiatus,Fish
+Paraliparis eastmani,Paraliparis_eastmani,Fish
+Paraliparis delphis,Paraliparis_delphis,Fish
+Paraliparis hobarti,Paraliparis_hobarti,Fish
+Paraliparis incognita,Paraliparis_incognita,Fish
+Paraliparis kocki,Paraliparis_kocki,Fish
+Paraliparis impariporus,Paraliparis_impariporus,Fish
+Paraliparis coracinus,Paraliparis_coracinus,Fish
+Paraliparis dewitti,Paraliparis_dewitti,Fish
+Paraliparis avellaneus,Paraliparis_avellaneus,Fish
+Paraliparis brunneocaudatus,Paraliparis_brunneocaudatus,Fish
+Paraliparis costatus,Paraliparis_costatus,Fish
+Paraliparis lasti,Paraliparis_lasti,Fish
+Paraliparis infeliciter,Paraliparis_infeliciter,Fish
+Paraliparis brunneus,Paraliparis_brunneus,Fish
+Paraliparis badius,Paraliparis_badius,Fish
+Pseudoplatystoma magdaleniatum,Pseudoplatystoma_magdaleniatum,Fish
+Pinirampus pirinampu,Pinirampus_pirinampu,Fish
+Zungaropsis,Zungaropsis,Fish
+Sorubim lima,Sorubim_lima,Fish
+Pinguipes brasilianus,Pinguipes_brasilianus,Fish
+Trixiphichthys weberi,Trixiphichthys_weberi,Fish
+Alburnoides qanati,Alburnoides_qanati,Fish
+Redhump eartheater,Redhump_eartheater,Fish
+Psychrolutes marcidus,Psychrolutes_marcidus,Fish
+Mahi-mahi,Mahi-mahi,Fish
+Stipecampus cristatus,Stipecampus_cristatus,Fish
+Synchiropus splendidus,Synchiropus_splendidus,Fish
+Paraliparis bipolaris,Paraliparis_bipolaris,Fish
+Paraliparis gomoni,Paraliparis_gomoni,Fish
+Black seasnail,Black_seasnail,Fish
+Paraliparis carlbondi,Paraliparis_carlbondi,Fish
+Pugnose shiner,Pugnose_shiner,Fish
+Labeo rosae,Labeo_rosae,Fish
+Lemon sole,Lemon_sole,Fish
+Red cornetfish,Red_cornetfish,Fish
+Pseudorhombus arsius,Pseudorhombus_arsius,Fish
+Alburnoides eichwaldii,Alburnoides_eichwaldii,Fish
+Alburnoides prespensis,Alburnoides_prespensis,Fish
+Javichthys kailolae,Javichthys_kailolae,Fish
+Transcaucasian spirlin,Transcaucasian_spirlin,Fish
+Pao leiurus,Pao_leiurus,Fish
+Mazarunia mazarunii,Mazarunia_mazarunii,Fish
+Satanoperca lilith,Satanoperca_lilith,Fish
+Aplochiton taeniatus,Aplochiton_taeniatus,Fish
+Aplochiton zebra,Aplochiton_zebra,Fish
+Razorbelly scad,Razorbelly_scad,Fish
+European eel,European_eel,Fish
+Whitetip weasel shark,Whitetip_weasel_shark,Fish
+Anarhichas minor,Anarhichas_minor,Fish
+Australian weasel shark,Australian_weasel_shark,Fish
+Sicklefin weasel shark,Sicklefin_weasel_shark,Fish
+Straight-tooth weasel shark,Straight-tooth_weasel_shark,Fish
+Atlantic weasel shark,Atlantic_weasel_shark,Fish
+Slender weasel shark,Slender_weasel_shark,Fish
+Barbeled houndshark,Barbeled_houndshark,Fish
+European plaice,European_plaice,Fish
+Beaufortia kweichowensis,Beaufortia_kweichowensis,Fish
+Blue shark,Blue_shark,Fish
+Omul,Omul,Fish
+Marmorerpeton wakei,Marmorerpeton_wakei,Amphibian
+Boulengerula taitana,Boulengerula_taitana,Amphibian
+Caecilia volcani,Caecilia_volcani,Amphibian
+Siphonops annulatus,Siphonops_annulatus,Amphibian
+Stefania roraimae,Stefania_roraimae,Amphibian
+Italian crested newt,Italian_crested_newt,Amphibian
+Danube crested newt,Danube_crested_newt,Amphibian
+Boulengerula niedeni,Boulengerula_niedeni,Amphibian
+Northern crested newt,Northern_crested_newt,Amphibian
+Two-toed amphiuma,Two-toed_amphiuma,Amphibian
+Stefania scalae,Stefania_scalae,Amphibian
+Stefania marahuaquensis,Stefania_marahuaquensis,Amphibian
+Stefania evansi,Stefania_evansi,Amphibian
+Caecilia crassisquama,Caecilia_crassisquama,Amphibian
+Amphiuma pholeter,Amphiuma_pholeter,Amphibian
+Siphonops hardyi,Siphonops_hardyi,Amphibian
+Stefania riae,Stefania_riae,Amphibian
+Alpine salamander,Alpine_salamander,Amphibian
+Hynobius glacialis,Hynobius_glacialis,Amphibian
+Fire salamander,Fire_salamander,Amphibian
+Near Eastern fire salamander,Near_Eastern_fire_salamander,Amphibian
+Hynobius nebulosus,Hynobius_nebulosus,Amphibian
+Hakuba salamander,Hakuba_salamander,Amphibian
+Oita salamander,Oita_salamander,Amphibian
+Hokuriku salamander,Hokuriku_salamander,Amphibian
+Oki salamander,Oki_salamander,Amphibian
+Ptychadena wadei,Ptychadena_wadei,Amphibian
+Ptychadena perreti,Ptychadena_perreti,Amphibian
+Ptychadena keilingi,Ptychadena_keilingi,Amphibian
+Ptychadena filwoha,Ptychadena_filwoha,Amphibian
+Ptychadena erlangeri,Ptychadena_erlangeri,Amphibian
+Ptychadena mapacha,Ptychadena_mapacha,Amphibian
+Ptychadena subpunctata,Ptychadena_subpunctata,Amphibian
+Ptychadena oxyrhynchus,Ptychadena_oxyrhynchus,Amphibian
+Ptychadena harenna,Ptychadena_harenna,Amphibian
+Hylambates keithae,Hylambates_keithae,Amphibian
+Siphonops paulensis,Siphonops_paulensis,Amphibian
+Siphonops leucoderus,Siphonops_leucoderus,Amphibian
+Engystomops randi,Engystomops_randi,Amphibian
+Engystomops coloradorum,Engystomops_coloradorum,Amphibian
+Engystomops montubio,Engystomops_montubio,Amphibian
+Engystomops pustulatus,Engystomops_pustulatus,Amphibian
+Hymenochirus feae,Hymenochirus_feae,Amphibian
+Hymenochirus boettgeri,Hymenochirus_boettgeri,Amphibian
+Hymenochirus boulengeri,Hymenochirus_boulengeri,Amphibian
+Uraeotyphlus interruptus,Uraeotyphlus_interruptus,Amphibian
+Uraeotyphlus menoni,Uraeotyphlus_menoni,Amphibian
+Uraeotyphlus malabaricus,Uraeotyphlus_malabaricus,Amphibian
+Uraeotyphlus narayani,Uraeotyphlus_narayani,Amphibian
+Uraeotyphlus oxyurus,Uraeotyphlus_oxyurus,Amphibian
+Leptobrachella baluensis,Leptobrachella_baluensis,Amphibian
+Leptobrachella mjobergi,Leptobrachella_mjobergi,Amphibian
+Leptobrachella parva,Leptobrachella_parva,Amphibian
+Leptobrachella natunae,Leptobrachella_natunae,Amphibian
+Leptobrachella palmata,Leptobrachella_palmata,Amphibian
+Leptobrachella brevicrus,Leptobrachella_brevicrus,Amphibian
+Leptobrachella serasanae,Leptobrachella_serasanae,Amphibian
+Hynobius ikioi,Hynobius_ikioi,Amphibian
+Liaoning salamander,Liaoning_salamander,Amphibian
+Hynobius fossigenus,Hynobius_fossigenus,Amphibian
+De Witte's snout-burrower,De_Witte's_snout-burrower,Amphibian
+Hynobius quelpaertensis,Hynobius_quelpaertensis,Amphibian
+Pseudoeurycea saltator,Pseudoeurycea_saltator,Amphibian
+Hynobius shinichisatoi,Hynobius_shinichisatoi,Amphibian
+Hynobius amakusaensis,Hynobius_amakusaensis,Amphibian
+Hynobius abuensis,Hynobius_abuensis,Amphibian
+Hynobius akiensis,Hynobius_akiensis,Amphibian
+Boulengerula spawlsi,Boulengerula_spawlsi,Amphibian
+Balkan crested newt,Balkan_crested_newt,Amphibian
+Ptychadena taenioscelis,Ptychadena_taenioscelis,Amphibian
+Ptychadena newtoni,Ptychadena_newtoni,Amphibian
+Ptychadena neumanni,Ptychadena_neumanni,Amphibian
+Ptychadena straeleni,Ptychadena_straeleni,Amphibian
+Ptychadena retropunctata,Ptychadena_retropunctata,Amphibian
+Ptychadena bibroni,Ptychadena_bibroni,Amphibian
+Ptychadena stenocephala,Ptychadena_stenocephala,Amphibian
+Ptychadena longirostris,Ptychadena_longirostris,Amphibian
+Ptychadena christyi,Ptychadena_christyi,Amphibian
+Engystomops petersi,Engystomops_petersi,Amphibian
+Engystomops freibergi,Engystomops_freibergi,Amphibian
+Engystomops guayaco,Engystomops_guayaco,Amphibian
+Salamandrella tridactyla,Salamandrella_tridactyla,Amphibian
+Kurdistan newt,Kurdistan_newt,Amphibian
+Engystomops puyango,Engystomops_puyango,Amphibian
+Uraeotyphlus oommeni,Uraeotyphlus_oommeni,Amphibian
+Anatolian crested newt,Anatolian_crested_newt,Amphibian
+Stefania maccullochi,Stefania_maccullochi,Amphibian
+Stefania neblinae,Stefania_neblinae,Amphibian
+Uraeotyphlus gansi,Uraeotyphlus_gansi,Amphibian
+Xenophrys auralensis,Xenophrys_auralensis,Amphibian
+Loveridge's frog,Loveridge's_frog,Amphibian
+Ptychadena nilotica,Ptychadena_nilotica,Amphibian
+Ptychadena tournieri,Ptychadena_tournieri,Amphibian
+Ptychadena pujoli,Ptychadena_pujoli,Amphibian
+Cope's giant salamander,Cope's_giant_salamander,Amphibian
+California giant salamander,California_giant_salamander,Amphibian
+Coastal giant salamander,Coastal_giant_salamander,Amphibian
+Red-crowned toadlet,Red-crowned_toadlet,Amphibian
+Ptychadena boettgeri,Ptychadena_boettgeri,Amphibian
+Leptobrachella aerea,Leptobrachella_aerea,Amphibian
